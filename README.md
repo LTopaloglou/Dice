@@ -4,7 +4,7 @@ A simulation of a dice game I created.
 For my Grade 12 Data Management course (Spring 2021), we had to create a probability-based game and then analyse the outcomes.
 The rules are shown below and in the Rules and Materials pdf.
 The mathematical analysis is available in the Theoretical Analysis and Experimental Results pdf.
-The program used to simulate the game and produce the experimental results can be run throug the DiceMain.java file.
+The program used to simulate the game and produce the experimental results is in the Dice folder.
 
 RULES:
 
